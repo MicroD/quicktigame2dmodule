@@ -5,4 +5,4 @@ Thank you for interested in game engine module for Titanium Mobile. As [Appcelet
 *Thanks again!*
 
 ----
-Kota Iguchi
+2012/10/03 - Kota Iguchi
