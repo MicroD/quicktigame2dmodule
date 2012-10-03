@@ -1,26 +1,8 @@
-# QuickTiGame2d
+# QuickTiGame2d has been acquired by [Lanica, Inc.](http://lanica.co/)
 
-## Description
+Thank you for interested in game engine module for Titanium Mobile. As [Appceletaror announced today](http://techcrunch.com/2012/10/03/appcelerator-innovation-fund/), QuickTiGame2d has been acquired by [Lanica, Inc.](http://lanica.co/) and receive funding from Appcelerator to speed up engine development. So I can not maintain QuickTiGame2d any more, and this repository is no longer used. Check out the next generation of mobile game engine from [Lanica](http://lanica.co/)!
 
-2D Game Engine Module for Titanium Mobile http://code.google.com/p/quicktigame2d/
+*Thanks again!*
 
-## INSTALL QuickTiGame2d MODULE
-
-* Grab the latest module zip from http://code.google.com/p/quicktigame2d/downloads/list
-* Copy the module zip into your Titanium SDK directory: http://docs.appcelerator.com/titanium/2.0/#!/guide/Titanium_Modules
-* Update modules section of your tiapp.xml like below:
-
-```
-<modules>
-  <module version="1.3">com.googlecode.quicktigame2d</module>
-</modules>
-```
-
-It is important to include the correct version number. If you don't know what version you have installed, just navigate back to the modules folder and inside the com.googlecode.quicktigame2d directory you should see another folder with a version number. Include this version number in your code.
-
-* clean and re-build your project
-
-For more information about module installation, see below:
-
-http://code.google.com/p/quicktigame2d/wiki/InstallModuleForMac
-http://docs.appcelerator.com/titanium/2.0/#!/guide/Titanium_Modules
+----
+Kota Iguchi
